@@ -10,7 +10,6 @@ For the greater purpose of educating ourselfs!
 
 ## Authors
 
--  Florian Lehner
 -  Dan Luedtke <mail@danrl.de>
 
 ## Usage
@@ -21,7 +20,6 @@ tbd
 
     lllzw - Implementation of the Lempel-Ziv-Welch algorithm.
     
-    Copyright (C) 2012  Florian Lehner
     Copyright (C) 2012  Dan Luedtke
     
     This program is free software: you can redistribute it and/or modify
