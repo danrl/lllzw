@@ -246,9 +246,9 @@ int main(int argc, char *argv[]) {
 	dict = dict_init();
 
 	/* Z-Magic */
-	//fprintf(stdout, "%c%c", 0x1f, 0x9d);
+	fprintf(stdout, "%c%c", 0x1f, 0x9d);
 	/* Header */
-	//fprintf(stdout, "%c", (char) (0x80 | 9));
+	fprintf(stdout, "%c", (char) (0x80 | 9));
 
 	str[0] = '\0';
 	curstr[0] = '\0';

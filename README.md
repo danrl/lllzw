@@ -5,7 +5,7 @@ lllzw - Implementation of the Lempel-Ziv-Welch algorithm.
 
 ## About
 
-For the greater purpose of educating ourselfs!
+For the greater purpose of educating myelf!
 
 
 ## Authors
@@ -14,7 +14,9 @@ For the greater purpose of educating ourselfs!
 
 ## Usage
 
-tbd
+Just pipe your data through lllzw, it will be very verbose on stderr but you
+should get a clean byte-stream on stdout. Use your favorite way of redirection
+to manage the streams to your need.
 
 ## License
 
