@@ -5,7 +5,7 @@ lllzw - Implementation of the Lempel-Ziv-Welch algorithm.
 
 ## About
 
-For the greater purpose of educating myelf!
+For the greater purpose of educating myself!
 
 
 ## Authors
